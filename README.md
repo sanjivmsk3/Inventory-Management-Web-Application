@@ -34,4 +34,5 @@ Below are the views available in the application and their screenshot.
 <ul>
 <li><h4>Reports :</h4></li>
 </ul>
-    This reports shows the balance quantity in each location::
+    This reports shows the balance quantity in each location:
+    <img src="https://user-images.githubusercontent.com/66983641/134771768-b7c31559-6a9a-40b2-90a3-476f5f2fc340.png" alt="">
