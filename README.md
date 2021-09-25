@@ -20,7 +20,9 @@ Below are the views available in the application and their screenshot.
 <li><h4>Products :</h4></li>
 </ul>
     This view helps to manage products:
-    
+    ![image](https://user-images.githubusercontent.com/66983641/134771687-69ad8a35-c86e-4a69-8361-2c5db0caec3c.png)
+    ![image](https://user-images.githubusercontent.com/66983641/134771708-8499fc1a-dd77-41ed-9495-fea0a65928b4.png)
+
 
 <ul>
 <li><h4>Location :</h4></li>
