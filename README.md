@@ -20,8 +20,9 @@ Below are the views available in the application and their screenshot.
 <li><h3>Products :</h3></li>
 </ul>
     This view helps to manage products:
-    <img src="https://user-images.githubusercontent.com/66983641/134771768-b7c31559-6a9a-40b2-90a3-476f5f2fc340.png" alt="">
-    <img src="https://user-images.githubusercontent.com/66983641/134771831-59b4c4c8-b662-41bb-a832-277d34163ae3.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774555-3f342c4c-a48a-444e-819e-9699c10eb644.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774563-f6df7298-f8e3-4c10-8079-9ba6aa0d6f95.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774570-a3dd42d2-3484-4e68-85c3-eaf180971dac.png" alt="">
 
 
 
@@ -29,20 +30,25 @@ Below are the views available in the application and their screenshot.
 <li><h3>Location :</h3></li>
 </ul>
     This view helps to manage Location:
-    <img src="https://user-images.githubusercontent.com/66983641/134771857-b6bb2b7f-4697-49de-b66e-98abb6631979.png" alt="">
-    <img src="https://user-images.githubusercontent.com/66983641/134771910-8ab04b1b-052c-4deb-bb36-dc15c33ce481.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774576-2a71e12f-dd4f-4171-816e-2e1c50aea2e2.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774580-12350e98-f6b3-4002-a629-a9ae3d800d4e.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774582-bb9a1fd7-5ef8-4939-97b1-b82f79d5d582.png" alt="">
 
 <ul>
 <li><h3>Product Movement :</h3></li>
 </ul>
     This view helps to manage Product Movement:
-    <img src="https://user-images.githubusercontent.com/66983641/134771914-3afb8fde-f40d-41de-b7e2-b3caf02bd106.png" alt="">
-    <img src="https://user-images.githubusercontent.com/66983641/134771932-6adcbae7-9df0-4a60-900e-1c0a6ad04400.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774589-7ebd415a-34f6-4462-b81e-984d762a88ac.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774624-0a3d58eb-752c-4165-8d98-04a0d5ab4330.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774614-fe05be9a-73b9-4edf-8a65-332bc9ab9306.png" alt="">
 
 <ul>
 <li><h3>Reports :</h3></li>
 </ul>
     This reports shows the balance quantity in each location:
-    <img src="https://user-images.githubusercontent.com/66983641/134771945-aa30f434-d43e-4e5e-8da5-954c855aaa32.png" alt="">
-    <img src="https://user-images.githubusercontent.com/66983641/134771963-35f40a7c-97bd-43d0-b77b-4d5c3c361707.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774632-5780ff9b-4993-45d6-bb17-1ad117048786.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134774635-1c459f9f-fbeb-43a2-b217-eae07ce42c6f.png" alt="">
 
+<ul>
+<li><h3>Video :</h3></li>
+</ul>
