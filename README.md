@@ -17,23 +17,33 @@ Sample of the Inventory Management Web Application made with Django and SQL Lite
 Below are the views available in the application and their screenshot.
 
 <ul>
-<li><h4>Products :</h4></li>
+<li><h3>Products :</h3></li>
 </ul>
     This view helps to manage products:
-    ![image](https://user-images.githubusercontent.com/66983641/134771687-69ad8a35-c86e-4a69-8361-2c5db0caec3c.png)
-    ![image](https://user-images.githubusercontent.com/66983641/134771708-8499fc1a-dd77-41ed-9495-fea0a65928b4.png)
+    <img src="https://user-images.githubusercontent.com/66983641/134771768-b7c31559-6a9a-40b2-90a3-476f5f2fc340.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134771831-59b4c4c8-b662-41bb-a832-277d34163ae3.png" alt="">
+
 
 
 <ul>
-<li><h4>Location :</h4></li>
+<li><h3>Location :</h3></li>
 </ul>
     This view helps to manage Location:
+    <img src="https://user-images.githubusercontent.com/66983641/134771857-b6bb2b7f-4697-49de-b66e-98abb6631979.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134771910-8ab04b1b-052c-4deb-bb36-dc15c33ce481.png" alt="">
 
 <ul>
-<li><h4>Product Movement :</h4></li>
+<li><h3>Product Movement :</h3></li>
 </ul>
     This view helps to manage Product Movement:
+    <img src="https://user-images.githubusercontent.com/66983641/134771914-3afb8fde-f40d-41de-b7e2-b3caf02bd106.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134771932-6adcbae7-9df0-4a60-900e-1c0a6ad04400.png" alt="">
+
 <ul>
-<li><h4>Reports :</h4></li>
+<li><h3>Reports :</h3></li>
 </ul>
-    This reports shows the balance quantity in each location::
+    This reports shows the balance quantity in each location:
+    <img src="https://user-images.githubusercontent.com/66983641/134771945-aa30f434-d43e-4e5e-8da5-954c855aaa32.png" alt="">
+    <img src="https://user-images.githubusercontent.com/66983641/134771963-35f40a7c-97bd-43d0-b77b-4d5c3c361707.png" alt="">
+
+
