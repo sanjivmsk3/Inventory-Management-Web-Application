@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-12 mx-auto">
+            <div class="page-breadcrumb d-none d-sm-flex align-items-center mb-3">
+					<div class="breadcrumb-title pe-3">Inventory Management</div>
+					<div class="ps-3">
+						<nav aria-label="breadcrumb">
+							<ol class="breadcrumb mb-0 p-0">
+								<li class="breadcrumb-item"><a href="{% url 'home' %}"><i class="bx bx-home-alt"></i></a>
+								</li>
+								<li class="breadcrumb-item active" aria-current="page">Reports</li>
+							</ol>
+						</nav>
+					</div>
+				</div>
+                <div class="card">
+                <div class="col-lg-3 col-xl-2 m-3">
+                    <a href="{% url 'add-product' %}" class="btn btn-primary mb-3 mb-lg-0"><i class='bx bxs-plus-square'></i>New Product</a>
+                </div>
+                <h2 class="card-title text-center">Reports</h2>
+                <div class="card-body">
+                <table class="table table-hover">
+                    <tr>
+                        <th>ID</th>
+                        <th>Product Name</th>
+                        <th>Location</th>
+                        <th>Qty</th>
+                    </tr>
+                    {% for foo in allreport %}
+                        <tr>
+                            <th>{{ foo.id }}.</th>
+                            <td>{{ foo.product_id.product_name }}</td>
+                            {% if foo.from_location %}
+                                <td>{{ foo.from_location.city }}, {{ foo.from_location.state }}</td>
+                            {% elif foo.to_location %}
+                                <td>{{ foo.to_location.city }}, {{ foo.to_location.state }}</td>
+                            {% endif %}
+                            <td>{{ foo.qty }}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
