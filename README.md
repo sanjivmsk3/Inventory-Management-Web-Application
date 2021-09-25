@@ -52,6 +52,4 @@ Below are the views available in the application and their screenshot.
 <ul>
 <li><h3>Video :</h3></li>
 </ul>
-<video width="320" height="240" controls>
-  <source src="./inventory.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/66983641/134776092-53c20f39-0f1a-4b51-9b82-4c0c7987a9f3.mp4
