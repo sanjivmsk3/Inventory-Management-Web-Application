@@ -9,7 +9,7 @@ class ProductAddForm(forms.ModelForm):
 
 class LocationAddForm(forms.ModelForm):
     class Meta:
-        model = Location
+        model = WLocat
         fields = '__all__'
 
 class ProductMovementForm(forms.ModelForm):

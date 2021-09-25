@@ -3,5 +3,5 @@ from app.models import *
 
 # Register your models here.
 admin.site.register(Product)
-admin.site.register(Location)
+admin.site.register(WLocat)
 admin.site.register(ProductMovement)

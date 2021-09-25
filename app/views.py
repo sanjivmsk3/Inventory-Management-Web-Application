@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect
 from django.views import View
-from django.views.generic import TemplateView, ListView, UpdateView
+from django.views.generic import TemplateView, UpdateView, ListView
+
 
 from app.models import *
 from app.forms import *
@@ -13,8 +14,7 @@ class Home(ListView):
     template_name = 'home.html'
 
 class Location(ListView):
-    queryset = Location.objects.all()
-    context_object_name = 'allLocation'
+    queryset = WLocat.objects.all()
     template_name = 'all-locations.html'
 
 class Movements(ListView):
@@ -44,9 +44,9 @@ class UpdateProduct(UpdateView):
         return redirect('home')
 
 class UpdateLocations(UpdateView):
-    model = Location
+    model = WLocat
     form_class = LocationAddForm
-    template_name = 'update-location.html'
+    template_name = 'update-locations.html'
 
     def form_valid(self, form):
         form.save()
